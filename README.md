@@ -1,4 +1,3 @@
-
 # Corona Virus Analysis using PostgreSQL
 
 ## Introduction
@@ -13,15 +12,11 @@ The primary objective of this project, Corona Virus Analysis using PostgreSQL, i
 
 The goal is not only to extract valuable insights from the data but also to contribute to the broader understanding of the ongoing global health crisis. Through this hands-on experience, the project aims to significantly improve PostgreSQL proficiency and readiness to tackle real-world data challenges.
 
-
-
-
-
-
 # Deployment
 ## Dataset
 The dataset for the project work is collected using the below link
 Covid-19 Dataset - https://ourworldindata.org/covid-cases
+
 After downloading the dataset into the local computer, I have seperate the dataset into two dataset based on Covid-19 Deaths and Covid-19 Vaccination.
 
 The `CovidDeaths` dataset includes records for:
