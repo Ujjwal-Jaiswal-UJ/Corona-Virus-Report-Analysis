@@ -1,0 +1,11 @@
+I. Datewise likelihood of dying due to covid19-TotalCases vs TotalDeath- in India
+II. Total % of deaths out of entire population- India
+III. Verify II Manually by getting info seperatedly
+IV. Country with highest death as of a % of population
+V. Total % of covid +ve cases in India
+VI. Total % of covid +ve cases- in world
+VII. Continentwise +ve cases
+VIII. Continentwise deaths
+IX. Daily newcases vs hospitalizations vs icu_patients-India
+X. Countrywise age 65>
+XI. Countrywise total vaccinated persons
