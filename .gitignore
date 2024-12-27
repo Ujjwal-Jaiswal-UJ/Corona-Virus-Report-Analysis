@@ -1,1 +1,2 @@
 Dataset
+*.sql linguist-language=PostgreSQL
